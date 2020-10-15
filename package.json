@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "The Useful Programmer FCC Backend Challenge WebApp",
 	"engines": {
-		"node": "4.4.5"
+		"node": "4.7.0"
 	},
 	"main": "server.js",
 	"scripts": {
